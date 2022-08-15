@@ -1,0 +1,16 @@
+C:\Users\Adem\Desktop\VizeLabirent\VizeLabirent\bin\Debug\VizeLabirent.exe.config
+C:\Users\Adem\Desktop\VizeLabirent\VizeLabirent\bin\Debug\VizeLabirent.exe
+C:\Users\Adem\Desktop\VizeLabirent\VizeLabirent\bin\Debug\VizeLabirent.pdb
+C:\Users\Adem\Desktop\VizeLabirent\VizeLabirent\obj\Debug\VizeLabirent.csproj.AssemblyReference.cache
+C:\Users\Adem\Desktop\VizeLabirent\VizeLabirent\obj\Debug\VizeLabirent.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adem\Desktop\VizeLabirent\VizeLabirent\obj\Debug\VizeLabirent.csproj.CoreCompileInputs.cache
+C:\Users\Adem\Desktop\VizeLabirent\VizeLabirent\obj\Debug\VizeLabirent.exe
+C:\Users\Adem\Desktop\VizeLabirent\VizeLabirent\obj\Debug\VizeLabirent.pdb
+C:\Users\Adem\Desktop\Vize2Proje\VizeLabirent\VizeLabirent\bin\Debug\VizeLabirent.exe.config
+C:\Users\Adem\Desktop\Vize2Proje\VizeLabirent\VizeLabirent\bin\Debug\VizeLabirent.exe
+C:\Users\Adem\Desktop\Vize2Proje\VizeLabirent\VizeLabirent\bin\Debug\VizeLabirent.pdb
+C:\Users\Adem\Desktop\Vize2Proje\VizeLabirent\VizeLabirent\obj\Debug\VizeLabirent.csproj.AssemblyReference.cache
+C:\Users\Adem\Desktop\Vize2Proje\VizeLabirent\VizeLabirent\obj\Debug\VizeLabirent.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adem\Desktop\Vize2Proje\VizeLabirent\VizeLabirent\obj\Debug\VizeLabirent.csproj.CoreCompileInputs.cache
+C:\Users\Adem\Desktop\Vize2Proje\VizeLabirent\VizeLabirent\obj\Debug\VizeLabirent.exe
+C:\Users\Adem\Desktop\Vize2Proje\VizeLabirent\VizeLabirent\obj\Debug\VizeLabirent.pdb
